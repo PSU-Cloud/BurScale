@@ -1,0 +1,19 @@
+{
+    "mu":200,
+    "default_weight":1,
+    "baseline":40,
+    "init":4,
+    "btype":"t3.small",
+    "regtype":"m5.large", 
+    "image_id":"",
+    "az":"",
+    "sg":"",
+    "snid":"",
+    "keyname":"", 
+    "duration":30,
+    "balancer_id":"",
+    "balancer_host_name":"",
+    "balancer_label":"balancer",
+    "region_name":"us-east-2" ,    
+    "logfile":"burscale.log"  
+}
